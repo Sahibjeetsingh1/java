@@ -1,0 +1,12 @@
+//Declare values
+		String words = "My name is sahib";
+		int age = 19;
+		int a = 1;
+		int b = 10;
+		
+		//print
+		System.out.println(words);
+		System.out.println(age);
+		
+		//bollean true or false
+		System.out.println(a>b);
